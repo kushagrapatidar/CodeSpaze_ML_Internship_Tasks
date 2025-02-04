@@ -1,4 +1,4 @@
-# CodeSpaze_ML_Internship_Tasks
+# **CodeSpaze_ML_Internship_Tasks**
 
   ## **1. Data Preprocessing and Exploratory Data Analysis (EDA):**
     o Description: Perform data preprocessing and EDA on a real-world dataset using Python libraries like pandas, NumPy, and Matplotlib. 
